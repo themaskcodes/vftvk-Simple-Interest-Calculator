@@ -1,7 +1,5 @@
-.body {background-color:white;font-family:arial;color:white}
-
-.h1{color:red;font-family:verdana}
-
+body {background-color:black; font-family:arial;color:white}
+h1{color:grey;font-family:verdana;text-align:center;}
 
 .maindiv {
     background-color:white;
@@ -9,8 +7,12 @@
     width:300px;
     padding:20px;
     border-radius:25px;
-    box-align:center
+    margin: auto
+	 
+}
 
+.highlight{
+background-color: yellow
 }
 
 
